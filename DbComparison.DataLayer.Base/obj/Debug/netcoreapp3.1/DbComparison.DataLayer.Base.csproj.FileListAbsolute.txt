@@ -1,0 +1,9 @@
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.deps.json
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.AssemblyInfoInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.AssemblyInfo.cs
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.csproj.CoreCompileInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Base\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.csprojAssemblyReference.cache

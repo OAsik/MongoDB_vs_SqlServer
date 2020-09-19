@@ -1,0 +1,603 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Business.Operation\\DbComparison.ProjectLayer.Business.Operation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj",
+        "projectName": "DbComparison.DataLayer.Base",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Factory\\DbComparison.DataLayer.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Factory\\DbComparison.DataLayer.Factory.csproj",
+        "projectName": "DbComparison.DataLayer.Factory",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Factory\\DbComparison.DataLayer.Factory.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.SqlServer\\DbComparison.DataLayer.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.SqlServer\\DbComparison.DataLayer.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj",
+        "projectName": "DbComparison.DataLayer.MongoDB",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.SqlServer\\DbComparison.DataLayer.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.SqlServer\\DbComparison.DataLayer.SqlServer.csproj",
+        "projectName": "DbComparison.DataLayer.SqlServer",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.SqlServer\\DbComparison.DataLayer.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Business.Operation\\DbComparison.ProjectLayer.Business.Operation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Business.Operation\\DbComparison.ProjectLayer.Business.Operation.csproj",
+        "projectName": "DbComparison.ProjectLayer.Business.Operation",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Business.Operation\\DbComparison.ProjectLayer.Business.Operation.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Business.Operation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.SqlServer\\DbComparison.ProjectLayer.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.SqlServer\\DbComparison.ProjectLayer.Data.SqlServer.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Repository\\DbComparison.ProjectLayer.Repository.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Repository\\DbComparison.ProjectLayer.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.Common\\DbComparison.ProjectLayer.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.Common\\DbComparison.ProjectLayer.Data.Common.csproj",
+        "projectName": "DbComparison.ProjectLayer.Data.Common",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.Common\\DbComparison.ProjectLayer.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.MongoDb\\DbComparison.ProjectLayer.Data.MongoDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.MongoDb\\DbComparison.ProjectLayer.Data.MongoDb.csproj",
+        "projectName": "DbComparison.ProjectLayer.Data.MongoDb",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.MongoDb\\DbComparison.ProjectLayer.Data.MongoDb.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.MongoDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.MongoDB\\DbComparison.DataLayer.MongoDB.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.Common\\DbComparison.ProjectLayer.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.Common\\DbComparison.ProjectLayer.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.SqlServer\\DbComparison.ProjectLayer.Data.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.SqlServer\\DbComparison.ProjectLayer.Data.SqlServer.csproj",
+        "projectName": "DbComparison.ProjectLayer.Data.SqlServer",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.SqlServer\\DbComparison.ProjectLayer.Data.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.SqlServer\\DbComparison.DataLayer.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.SqlServer\\DbComparison.DataLayer.SqlServer.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.Common\\DbComparison.ProjectLayer.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.Common\\DbComparison.ProjectLayer.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Repository\\DbComparison.ProjectLayer.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Repository\\DbComparison.ProjectLayer.Repository.csproj",
+        "projectName": "DbComparison.ProjectLayer.Repository",
+        "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Repository\\DbComparison.ProjectLayer.Repository.csproj",
+        "packagesPath": "C:\\Users\\RaZzLe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaZzLe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Base\\DbComparison.DataLayer.Base.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Factory\\DbComparison.DataLayer.Factory.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.DataLayer.Factory\\DbComparison.DataLayer.Factory.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.MongoDb\\DbComparison.ProjectLayer.Data.MongoDb.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.MongoDb\\DbComparison.ProjectLayer.Data.MongoDb.csproj"
+              },
+              "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.SqlServer\\DbComparison.ProjectLayer.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\RaZzLe\\source\\repos\\DbComparison\\DbComparison.ProjectLayer.Data.SqlServer\\DbComparison.ProjectLayer.Data.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

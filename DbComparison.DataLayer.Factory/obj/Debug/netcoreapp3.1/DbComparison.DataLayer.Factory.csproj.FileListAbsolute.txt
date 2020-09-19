@@ -1,0 +1,16 @@
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.deps.json
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.SqlServer.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.SqlServer.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.csprojAssemblyReference.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.AssemblyInfoInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.AssemblyInfo.cs
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.csproj.CoreCompileInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.csproj.CopyComplete
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.Factory.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.Factory\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.pdb

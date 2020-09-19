@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="_baseDataContext.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DbComparison.DataLayer.Base\DbComparison.DataLayer.Base.csproj" />
+    <ProjectReference Include="..\DbComparison.DataLayer.MongoDB\DbComparison.DataLayer.MongoDB.csproj" />
+    <ProjectReference Include="..\DbComparison.DataLayer.SqlServer\DbComparison.DataLayer.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>

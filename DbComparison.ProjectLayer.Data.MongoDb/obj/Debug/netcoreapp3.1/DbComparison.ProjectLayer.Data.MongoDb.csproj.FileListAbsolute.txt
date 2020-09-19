@@ -1,0 +1,16 @@
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.deps.json
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.csprojAssemblyReference.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.AssemblyInfoInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.AssemblyInfo.cs
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.csproj.CopyComplete
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.MongoDb.csproj.CoreCompileInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.MongoDb\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.pdb

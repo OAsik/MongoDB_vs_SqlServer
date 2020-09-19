@@ -1,0 +1,14 @@
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.deps.json
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.csprojAssemblyReference.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.AssemblyInfoInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.AssemblyInfo.cs
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Data.Common\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Data.Common.csproj.CopyComplete

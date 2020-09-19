@@ -1,0 +1,12 @@
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.deps.json
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.Base.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.csprojAssemblyReference.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.AssemblyInfoInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.AssemblyInfo.cs
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.csproj.CopyComplete
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\bin\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.DataLayer.MongoDB\obj\Debug\netcoreapp3.1\DbComparison.DataLayer.MongoDB.pdb

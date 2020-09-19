@@ -1,0 +1,9 @@
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.deps.json
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\bin\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.AssemblyInfoInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.AssemblyInfo.cs
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.csproj.CoreCompileInputs.cache
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.dll
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.pdb
+C:\Users\RaZzLe\source\repos\DbComparison\DbComparison.ProjectLayer.Helper.Methods\obj\Debug\netcoreapp3.1\DbComparison.ProjectLayer.Helper.Methods.csprojAssemblyReference.cache

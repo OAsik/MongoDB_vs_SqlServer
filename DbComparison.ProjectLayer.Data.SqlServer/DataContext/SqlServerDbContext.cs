@@ -23,7 +23,7 @@ namespace DbComparison.ProjectLayer.Data.SqlServer.DataContext
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=DESKTOP-02M08H9\\RAZZLESQLSERVER;database=ComparisonDb;user=sa;password=2222mysql8888;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=*****;database=ComparisonDb;user=*****;password=*****;Trusted_Connection=True;");
             }
         }
 
